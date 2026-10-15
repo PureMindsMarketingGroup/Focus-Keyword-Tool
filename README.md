@@ -149,7 +149,7 @@ een kale static server werkt de analyse niet.
 De tool draait op Vercel vanuit deze GitHub-repo. Elke push naar `main` rolt
 automatisch opnieuw uit.
 
-1. Ga in Vercel naar **Add New → Project** en importeer `Jelger1/Focus-Keyword-Tool`.
+1. Ga in Vercel naar **Add New → Project** en importeer `PureMindsMarketingGroup/Focus-Keyword-Tool`.
    Framework preset: **Other**. Build command en output directory laat je leeg.
 2. Open **Settings → Environment Variables** en voeg de variabelen uit de tabel
    hieronder toe, voor Production én Preview. Plak alleen de waarde, zonder
